@@ -1,7 +1,7 @@
 name = "Tin Fishin' Bin: On the Docks"
-description = "Convenient and thematically appropraite storage for your dock-based fishing needs."
+description = "Convenient and sensible storage for your dock-based fishing needs."
 author = "LazyTitan"
-version = "0.1.1"
+version = "0.1.2"
 
 api_version = 10
 dst_compatible = true
