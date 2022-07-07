@@ -8,7 +8,7 @@ dst_compatible = true
 dont_starve_compatible = false
 reign_of_giants_compatible = false
 shipwrecked_compatible = false
-all_clients_require_mod = true 
+all_clients_require_mod = true
 
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"

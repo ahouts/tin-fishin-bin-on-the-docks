@@ -1,5 +1,4 @@
-local fish_box = "fish_box"
-AddRecipePostInit(fish_box, function(existing)
+AddRecipePostInit("fish_box", function(existing)
     local previous_testfn = existing.testfn
     existing.testfn = function(pt)
         local world = GLOBAL.TheWorld
