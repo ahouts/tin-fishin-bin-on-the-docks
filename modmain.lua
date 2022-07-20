@@ -1,5 +1,5 @@
 AddRecipePostInit("fish_box", function(existing)
-    local util = require("dst-util/util")(GLOBAL)
+    local util = require("tin-fishin-bin-on-the-docks/dst-util/util")(GLOBAL)
 
     local previous_testfn = util.access(existing, "testfn")
     local monkey_dock = util.access(GLOBAL, "WORLD_TILES", "MONKEY_DOCK")
